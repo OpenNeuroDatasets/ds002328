@@ -6,6 +6,7 @@
         "https://fsl.fmrib.ox.ac.uk"
     ],
     "Authors": [
-    "Taylor Hanayik"
-  ]
+        "Taylor Hanayik"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002328.v1.0.0"
 }
